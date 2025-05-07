@@ -1,4 +1,6 @@
+
 Telecom Customer Churn Prediction
+
 This project aims to predict customer churn using machine learning techniques. Churn prediction helps businesses identify customers who are likely to stop using their service, allowing them to take proactive measures to retain them.
 
 
